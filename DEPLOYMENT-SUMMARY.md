@@ -2,7 +2,7 @@
 
 ## ✅ Successfully Pushed to GitHub
 
-**Repository:** https://github.com/shuraimnms/gymflow-elite-fitness-hub.git
+**Repository:** https://github.com/nellorefaizal/gymflow-elite-fitness-hub-main
 **Branch:** main
 **Status:** All changes committed and pushed
 
